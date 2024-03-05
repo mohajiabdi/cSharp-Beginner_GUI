@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\l\\Documents\\C#\\Temprature\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CD5EFA-0100-4811-81DB-E8870DE99D3F}|Temprature\\Temprature.csproj|c:\\users\\l\\documents\\c#\\temprature\\temprature\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3CD5EFA-0100-4811-81DB-E8870DE99D3F}|Temprature\\Temprature.csproj|solutionrelative:temprature\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\l\\Documents\\C#\\Temprature\\Temprature\\Form1.cs",
+              "RelativeDocumentMoniker": "Temprature\\Form1.cs",
+              "ToolTip": "C:\\Users\\l\\Documents\\C#\\Temprature\\Temprature\\Form1.cs [Design]",
+              "RelativeToolTip": "Temprature\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:56:38.111Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

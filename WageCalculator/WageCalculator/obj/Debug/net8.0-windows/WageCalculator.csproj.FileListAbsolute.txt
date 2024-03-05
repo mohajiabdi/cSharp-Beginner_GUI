@@ -1,0 +1,16 @@
+C:\Users\l\Documents\C#\WageCalculator\WageCalculator\bin\Debug\net8.0-windows\WageCalculator.exe
+C:\Users\l\Documents\C#\WageCalculator\WageCalculator\bin\Debug\net8.0-windows\WageCalculator.deps.json
+C:\Users\l\Documents\C#\WageCalculator\WageCalculator\bin\Debug\net8.0-windows\WageCalculator.runtimeconfig.json
+C:\Users\l\Documents\C#\WageCalculator\WageCalculator\bin\Debug\net8.0-windows\WageCalculator.dll
+C:\Users\l\Documents\C#\WageCalculator\WageCalculator\bin\Debug\net8.0-windows\WageCalculator.pdb
+C:\Users\l\Documents\C#\WageCalculator\WageCalculator\obj\Debug\net8.0-windows\WageCalculator.Form1.resources
+C:\Users\l\Documents\C#\WageCalculator\WageCalculator\obj\Debug\net8.0-windows\WageCalculator.csproj.GenerateResource.cache
+C:\Users\l\Documents\C#\WageCalculator\WageCalculator\obj\Debug\net8.0-windows\WageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l\Documents\C#\WageCalculator\WageCalculator\obj\Debug\net8.0-windows\WageCalculator.AssemblyInfoInputs.cache
+C:\Users\l\Documents\C#\WageCalculator\WageCalculator\obj\Debug\net8.0-windows\WageCalculator.AssemblyInfo.cs
+C:\Users\l\Documents\C#\WageCalculator\WageCalculator\obj\Debug\net8.0-windows\WageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\l\Documents\C#\WageCalculator\WageCalculator\obj\Debug\net8.0-windows\WageCalculator.dll
+C:\Users\l\Documents\C#\WageCalculator\WageCalculator\obj\Debug\net8.0-windows\refint\WageCalculator.dll
+C:\Users\l\Documents\C#\WageCalculator\WageCalculator\obj\Debug\net8.0-windows\WageCalculator.pdb
+C:\Users\l\Documents\C#\WageCalculator\WageCalculator\obj\Debug\net8.0-windows\WageCalculator.genruntimeconfig.cache
+C:\Users\l\Documents\C#\WageCalculator\WageCalculator\obj\Debug\net8.0-windows\ref\WageCalculator.dll

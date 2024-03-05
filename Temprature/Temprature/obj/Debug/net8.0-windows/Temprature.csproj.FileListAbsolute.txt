@@ -1,0 +1,16 @@
+C:\Users\l\Documents\C#\Temprature\Temprature\bin\Debug\net8.0-windows\Temprature.exe
+C:\Users\l\Documents\C#\Temprature\Temprature\bin\Debug\net8.0-windows\Temprature.deps.json
+C:\Users\l\Documents\C#\Temprature\Temprature\bin\Debug\net8.0-windows\Temprature.runtimeconfig.json
+C:\Users\l\Documents\C#\Temprature\Temprature\bin\Debug\net8.0-windows\Temprature.dll
+C:\Users\l\Documents\C#\Temprature\Temprature\bin\Debug\net8.0-windows\Temprature.pdb
+C:\Users\l\Documents\C#\Temprature\Temprature\obj\Debug\net8.0-windows\Temprature.Form1.resources
+C:\Users\l\Documents\C#\Temprature\Temprature\obj\Debug\net8.0-windows\Temprature.csproj.GenerateResource.cache
+C:\Users\l\Documents\C#\Temprature\Temprature\obj\Debug\net8.0-windows\Temprature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l\Documents\C#\Temprature\Temprature\obj\Debug\net8.0-windows\Temprature.AssemblyInfoInputs.cache
+C:\Users\l\Documents\C#\Temprature\Temprature\obj\Debug\net8.0-windows\Temprature.AssemblyInfo.cs
+C:\Users\l\Documents\C#\Temprature\Temprature\obj\Debug\net8.0-windows\Temprature.csproj.CoreCompileInputs.cache
+C:\Users\l\Documents\C#\Temprature\Temprature\obj\Debug\net8.0-windows\Temprature.dll
+C:\Users\l\Documents\C#\Temprature\Temprature\obj\Debug\net8.0-windows\refint\Temprature.dll
+C:\Users\l\Documents\C#\Temprature\Temprature\obj\Debug\net8.0-windows\Temprature.pdb
+C:\Users\l\Documents\C#\Temprature\Temprature\obj\Debug\net8.0-windows\Temprature.genruntimeconfig.cache
+C:\Users\l\Documents\C#\Temprature\Temprature\obj\Debug\net8.0-windows\ref\Temprature.dll
