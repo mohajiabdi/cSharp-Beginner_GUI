@@ -1,0 +1,17 @@
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\BMI\BMI\bin\Debug\net8.0-windows\BMI.exe
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\BMI\BMI\bin\Debug\net8.0-windows\BMI.deps.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\BMI\BMI\bin\Debug\net8.0-windows\BMI.runtimeconfig.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\BMI\BMI\bin\Debug\net8.0-windows\BMI.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\BMI\BMI\bin\Debug\net8.0-windows\BMI.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\BMI\BMI\obj\Debug\net8.0-windows\BMI.Form1.resources
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\BMI\BMI\obj\Debug\net8.0-windows\BMI.csproj.GenerateResource.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\BMI\BMI\obj\Debug\net8.0-windows\BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\BMI\BMI\obj\Debug\net8.0-windows\BMI.AssemblyInfoInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\BMI\BMI\obj\Debug\net8.0-windows\BMI.AssemblyInfo.cs
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\BMI\BMI\obj\Debug\net8.0-windows\BMI.csproj.CoreCompileInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\BMI\BMI\obj\Debug\net8.0-windows\BMI.sourcelink.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\BMI\BMI\obj\Debug\net8.0-windows\BMI.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\BMI\BMI\obj\Debug\net8.0-windows\refint\BMI.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\BMI\BMI\obj\Debug\net8.0-windows\BMI.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\BMI\BMI\obj\Debug\net8.0-windows\BMI.genruntimeconfig.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\BMI\BMI\obj\Debug\net8.0-windows\ref\BMI.dll
