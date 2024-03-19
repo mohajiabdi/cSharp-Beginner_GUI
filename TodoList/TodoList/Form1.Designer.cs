@@ -35,10 +35,10 @@
             btnAdd = new Button();
             btnEdit = new Button();
             btnDelete = new Button();
-            dataGVOne = new DataGridView();
             richTxtDescribe = new RichTextBox();
-            ((System.ComponentModel.ISupportInitialize)dataGVOne).BeginInit();
-            SuspendLayout();
+            todoListTable = new DataGridView();
+            ((System.ComponentModel.ISupportInitialize)todoListTable).BeginInit();
+            
             // 
             // label1
             // 
@@ -113,15 +113,6 @@
             btnDelete.Text = "Delete Todo";
             btnDelete.UseVisualStyleBackColor = false;
             // 
-            // dataGVOne
-            // 
-            dataGVOne.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGVOne.Location = new Point(455, 120);
-            dataGVOne.Name = "dataGVOne";
-            dataGVOne.RowHeadersWidth = 51;
-            dataGVOne.Size = new Size(491, 299);
-            dataGVOne.TabIndex = 5;
-            // 
             // richTxtDescribe
             // 
             richTxtDescribe.Location = new Point(24, 205);
@@ -130,13 +121,22 @@
             richTxtDescribe.TabIndex = 1;
             richTxtDescribe.Text = "";
             // 
+            // todoListTable
+            // 
+            todoListTable.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            todoListTable.Location = new Point(455, 120);
+            todoListTable.Name = "todoListTable";
+            todoListTable.RowHeadersWidth = 51;
+            todoListTable.Size = new Size(491, 299);
+            todoListTable.TabIndex = 5;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(958, 476);
             Controls.Add(richTxtDescribe);
-            Controls.Add(dataGVOne);
+            Controls.Add(todoListTable);
             Controls.Add(btnDelete);
             Controls.Add(btnEdit);
             Controls.Add(btnAdd);
@@ -148,7 +148,7 @@
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;
-            ((System.ComponentModel.ISupportInitialize)dataGVOne).EndInit();
+            ((System.ComponentModel.ISupportInitialize)todoListTable).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -162,7 +162,7 @@
         private Button btnAdd;
         private Button btnEdit;
         private Button btnDelete;
-        private DataGridView dataGVOne;
         private RichTextBox richTxtDescribe;
+        private DataGridView todoListTable;
     }
 }

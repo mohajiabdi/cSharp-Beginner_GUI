@@ -1,0 +1,17 @@
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\TodoListApp\TodoListApp\bin\Debug\net8.0-windows\TodoListApp.exe
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\TodoListApp\TodoListApp\bin\Debug\net8.0-windows\TodoListApp.deps.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\TodoListApp\TodoListApp\bin\Debug\net8.0-windows\TodoListApp.runtimeconfig.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\TodoListApp\TodoListApp\bin\Debug\net8.0-windows\TodoListApp.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\TodoListApp\TodoListApp\bin\Debug\net8.0-windows\TodoListApp.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\TodoListApp\TodoListApp\obj\Debug\net8.0-windows\TodoListApp.Todo.resources
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\TodoListApp\TodoListApp\obj\Debug\net8.0-windows\TodoListApp.csproj.GenerateResource.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\TodoListApp\TodoListApp\obj\Debug\net8.0-windows\TodoListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\TodoListApp\TodoListApp\obj\Debug\net8.0-windows\TodoListApp.AssemblyInfoInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\TodoListApp\TodoListApp\obj\Debug\net8.0-windows\TodoListApp.AssemblyInfo.cs
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\TodoListApp\TodoListApp\obj\Debug\net8.0-windows\TodoListApp.csproj.CoreCompileInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\TodoListApp\TodoListApp\obj\Debug\net8.0-windows\TodoListApp.sourcelink.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\TodoListApp\TodoListApp\obj\Debug\net8.0-windows\TodoListApp.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\TodoListApp\TodoListApp\obj\Debug\net8.0-windows\refint\TodoListApp.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\TodoListApp\TodoListApp\obj\Debug\net8.0-windows\TodoListApp.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\TodoListApp\TodoListApp\obj\Debug\net8.0-windows\TodoListApp.genruntimeconfig.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\TodoListApp\TodoListApp\obj\Debug\net8.0-windows\ref\TodoListApp.dll

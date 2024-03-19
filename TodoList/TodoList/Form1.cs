@@ -1,8 +1,8 @@
 namespace TodoList
 {
-    public partial class Form1 : Form
+    public partial class Todo : Form
     {
-        public Form1()
+        public Todo()
         {
             InitializeComponent();
         }

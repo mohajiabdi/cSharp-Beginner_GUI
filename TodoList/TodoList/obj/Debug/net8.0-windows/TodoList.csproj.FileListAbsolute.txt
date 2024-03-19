@@ -15,3 +15,4 @@ C:\Users\l\Documents\GitHub\Coding-Zone\C#\TodoList\TodoList\obj\Debug\net8.0-wi
 C:\Users\l\Documents\GitHub\Coding-Zone\C#\TodoList\TodoList\obj\Debug\net8.0-windows\TodoList.pdb
 C:\Users\l\Documents\GitHub\Coding-Zone\C#\TodoList\TodoList\obj\Debug\net8.0-windows\TodoList.genruntimeconfig.cache
 C:\Users\l\Documents\GitHub\Coding-Zone\C#\TodoList\TodoList\obj\Debug\net8.0-windows\ref\TodoList.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\TodoList\TodoList\obj\Debug\net8.0-windows\TodoList.Todo.resources
