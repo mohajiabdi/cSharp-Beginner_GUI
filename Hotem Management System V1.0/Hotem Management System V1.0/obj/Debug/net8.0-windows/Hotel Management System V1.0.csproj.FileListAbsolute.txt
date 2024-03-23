@@ -1,0 +1,28 @@
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\bin\Debug\net8.0-windows\Hotel Management System V1.0.exe
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\bin\Debug\net8.0-windows\Hotel Management System V1.0.deps.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\bin\Debug\net8.0-windows\Hotel Management System V1.0.runtimeconfig.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\bin\Debug\net8.0-windows\Hotel Management System V1.0.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\bin\Debug\net8.0-windows\Hotel Management System V1.0.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\obj\Debug\net8.0-windows\Hotel Management System V1.0.csproj.AssemblyReference.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\obj\Debug\net8.0-windows\Hotem_Management_System_V1._0.Form1.resources
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\obj\Debug\net8.0-windows\Hotel Management System V1.0.csproj.GenerateResource.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\obj\Debug\net8.0-windows\Hotel Management System V1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\obj\Debug\net8.0-windows\Hotel Management System V1.0.AssemblyInfoInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\obj\Debug\net8.0-windows\Hotel Management System V1.0.AssemblyInfo.cs
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\obj\Debug\net8.0-windows\Hotel Management System V1.0.csproj.CoreCompileInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\obj\Debug\net8.0-windows\Hotel Management System V1.0.sourcelink.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\obj\Debug\net8.0-windows\Hotel Ma.30397872.Up2Date
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\obj\Debug\net8.0-windows\Hotel Management System V1.0.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\obj\Debug\net8.0-windows\refint\Hotel Management System V1.0.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\obj\Debug\net8.0-windows\Hotel Management System V1.0.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\obj\Debug\net8.0-windows\Hotel Management System V1.0.genruntimeconfig.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\obj\Debug\net8.0-windows\ref\Hotel Management System V1.0.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\obj\Debug\net8.0-windows\Hotem_Management_System_V1._0.Properties.Resources.resources
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\obj\Debug\net8.0-windows\Hotem_Management_System_V1._0.Dash1.resources
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\obj\Debug\net8.0-windows\Hotem_Management_System_V1._0.Register.resources
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\obj\Debug\net8.0-windows\Hotem_Management_System_V1._0.Reserve.resources
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\obj\Debug\net8.0-windows\Hotem_Management_System_V1._0.Restaurant.resources
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotem Management System V1.0\Hotem Management System V1.0\obj\Debug\net8.0-windows\Hotem_Management_System_V1._0.Taxi.resources

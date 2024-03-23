@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Login Form")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+572363be00e1a225118c9de74c08ea96b913e791")]
 [assembly: System.Reflection.AssemblyProductAttribute("Login Form")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Login Form")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

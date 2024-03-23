@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\l\\Documents\\GitHub\\Coding Zone\\C#\\Login Form\\Login Form\\Login Form.csproj",
+      "projectUniqueName": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Login Form\\Login Form\\Login Form.csproj",
       "projectName": "Login Form",
-      "projectPath": "C:\\Users\\l\\Documents\\GitHub\\Coding Zone\\C#\\Login Form\\Login Form\\Login Form.csproj",
+      "projectPath": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Login Form\\Login Form\\Login Form.csproj",
       "packagesPath": "C:\\Users\\l\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\l\\Documents\\GitHub\\Coding Zone\\C#\\Login Form\\Login Form\\obj\\",
+      "outputPath": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Login Form\\Login Form\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\l\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
