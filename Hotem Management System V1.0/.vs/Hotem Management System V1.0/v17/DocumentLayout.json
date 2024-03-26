@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Hotem Management System V1.0\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{45512157-798D-4A03-8AA3-7FECC1E8E6DB}|Hotem Management System V1.0\\Hotel Management System V1.0.csproj|c:\\users\\l\\documents\\github\\coding-zone\\c#\\hotem management system v1.0\\hotem management system v1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45512157-798D-4A03-8AA3-7FECC1E8E6DB}|Hotem Management System V1.0\\Hotel Management System V1.0.csproj|solutionrelative:hotem management system v1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45512157-798D-4A03-8AA3-7FECC1E8E6DB}|Hotem Management System V1.0\\Hotem Management System V1.0.csproj|C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Hotem Management System V1.0\\hotem management system v1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45512157-798D-4A03-8AA3-7FECC1E8E6DB}|Hotem Management System V1.0\\Hotem Management System V1.0.csproj|solutionrelative:hotem management system v1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45512157-798D-4A03-8AA3-7FECC1E8E6DB}|Hotem Management System V1.0\\Hotel Management System V1.0.csproj|c:\\users\\l\\documents\\github\\coding-zone\\c#\\hotem management system v1.0\\hotem management system v1.0\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{45512157-798D-4A03-8AA3-7FECC1E8E6DB}|Hotem Management System V1.0\\Hotel Management System V1.0.csproj|solutionrelative:hotem management system v1.0\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45512157-798D-4A03-8AA3-7FECC1E8E6DB}|Hotem Management System V1.0\\Hotel Management System V1.0.csproj|c:\\users\\l\\documents\\github\\coding-zone\\c#\\hotem management system v1.0\\hotem management system v1.0\\reserve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{45512157-798D-4A03-8AA3-7FECC1E8E6DB}|Hotem Management System V1.0\\Hotel Management System V1.0.csproj|C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Hotem Management System V1.0\\hotem management system v1.0\\reserve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{45512157-798D-4A03-8AA3-7FECC1E8E6DB}|Hotem Management System V1.0\\Hotel Management System V1.0.csproj|solutionrelative:hotem management system v1.0\\reserve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45512157-798D-4A03-8AA3-7FECC1E8E6DB}|Hotem Management System V1.0\\Hotel Management System V1.0.csproj|c:\\users\\l\\documents\\github\\coding-zone\\c#\\hotem management system v1.0\\hotem management system v1.0\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{45512157-798D-4A03-8AA3-7FECC1E8E6DB}|Hotem Management System V1.0\\Hotel Management System V1.0.csproj|C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Hotem Management System V1.0\\hotem management system v1.0\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{45512157-798D-4A03-8AA3-7FECC1E8E6DB}|Hotem Management System V1.0\\Hotel Management System V1.0.csproj|solutionrelative:hotem management system v1.0\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45512157-798D-4A03-8AA3-7FECC1E8E6DB}|Hotem Management System V1.0\\Hotel Management System V1.0.csproj|c:\\users\\l\\documents\\github\\coding-zone\\c#\\hotem management system v1.0\\hotem management system v1.0\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{45512157-798D-4A03-8AA3-7FECC1E8E6DB}|Hotem Management System V1.0\\Hotel Management System V1.0.csproj|C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Hotem Management System V1.0\\hotem management system v1.0\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{45512157-798D-4A03-8AA3-7FECC1E8E6DB}|Hotem Management System V1.0\\Hotel Management System V1.0.csproj|solutionrelative:hotem management system v1.0\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45512157-798D-4A03-8AA3-7FECC1E8E6DB}|Hotem Management System V1.0\\Hotel Management System V1.0.csproj|c:\\users\\l\\documents\\github\\coding-zone\\c#\\hotem management system v1.0\\hotem management system v1.0\\dash1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{45512157-798D-4A03-8AA3-7FECC1E8E6DB}|Hotem Management System V1.0\\Hotel Management System V1.0.csproj|solutionrelative:hotem management system v1.0\\dash1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45512157-798D-4A03-8AA3-7FECC1E8E6DB}|Hotem Management System V1.0\\Hotem Management System V1.0.csproj|c:\\users\\l\\documents\\github\\coding-zone\\c#\\hotem management system v1.0\\hotem management system v1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{45512157-798D-4A03-8AA3-7FECC1E8E6DB}|Hotem Management System V1.0\\Hotem Management System V1.0.csproj|solutionrelative:hotem management system v1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,47 +34,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Hotem Management System V1.0\\Hotem Management System V1.0\\Form1.cs",
+              "RelativeDocumentMoniker": "Hotem Management System V1.0\\Form1.cs",
+              "ToolTip": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Hotem Management System V1.0\\Hotem Management System V1.0\\Form1.cs [Design]",
+              "RelativeToolTip": "Hotem Management System V1.0\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T05:12:09.419Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Restaurant.cs [Design]",
               "DocumentMoniker": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Hotem Management System V1.0\\Hotem Management System V1.0\\Restaurant.cs",
               "RelativeDocumentMoniker": "Hotem Management System V1.0\\Restaurant.cs",
               "ToolTip": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Hotem Management System V1.0\\Hotem Management System V1.0\\Restaurant.cs [Design]",
               "RelativeToolTip": "Hotem Management System V1.0\\Restaurant.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T12:29:02.807Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-03-23T12:29:02.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Taxi.cs [Design]",
               "DocumentMoniker": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Hotem Management System V1.0\\Hotem Management System V1.0\\Taxi.cs",
               "RelativeDocumentMoniker": "Hotem Management System V1.0\\Taxi.cs",
               "ToolTip": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Hotem Management System V1.0\\Hotem Management System V1.0\\Taxi.cs [Design]",
               "RelativeToolTip": "Hotem Management System V1.0\\Taxi.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T12:28:26.171Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-03-23T12:28:26.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Reserve.cs [Design]",
               "DocumentMoniker": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Hotem Management System V1.0\\Hotem Management System V1.0\\Reserve.cs",
               "RelativeDocumentMoniker": "Hotem Management System V1.0\\Reserve.cs",
               "ToolTip": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Hotem Management System V1.0\\Hotem Management System V1.0\\Reserve.cs [Design]",
               "RelativeToolTip": "Hotem Management System V1.0\\Reserve.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T12:27:54.66Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-03-23T12:27:54.66Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Register.cs [Design]",
               "DocumentMoniker": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Hotem Management System V1.0\\Hotem Management System V1.0\\Register.cs",
               "RelativeDocumentMoniker": "Hotem Management System V1.0\\Register.cs",
@@ -86,27 +95,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Dash1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Hotem Management System V1.0\\Hotem Management System V1.0\\Dash1.cs",
-              "RelativeDocumentMoniker": "Hotem Management System V1.0\\Dash1.cs",
-              "ToolTip": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Hotem Management System V1.0\\Hotem Management System V1.0\\Dash1.cs [Design]",
-              "RelativeToolTip": "Hotem Management System V1.0\\Dash1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T11:47:38.28Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Hotem Management System V1.0\\Hotem Management System V1.0\\Form1.cs",
               "RelativeDocumentMoniker": "Hotem Management System V1.0\\Form1.cs",
               "ToolTip": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Hotem Management System V1.0\\Hotem Management System V1.0\\Form1.cs [Design]",
               "RelativeToolTip": "Hotem Management System V1.0\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T10:35:38.295Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-03-23T10:35:38.295Z"
             }
           ]
         }

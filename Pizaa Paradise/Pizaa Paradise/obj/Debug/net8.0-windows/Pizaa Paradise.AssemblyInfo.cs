@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Hotel Management System V1.0")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Pizaa Paradise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccb72ac9ff8b44c2d6227a63e5996686d41b928a")]
-[assembly: System.Reflection.AssemblyProductAttribute("Hotel Management System V1.0")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Hotel Management System V1.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("Pizaa Paradise")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Pizaa Paradise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
