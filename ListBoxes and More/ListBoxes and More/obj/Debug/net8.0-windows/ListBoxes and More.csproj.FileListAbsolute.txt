@@ -1,0 +1,17 @@
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\ListBoxes and More\ListBoxes and More\bin\Debug\net8.0-windows\ListBoxes and More.exe
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\ListBoxes and More\ListBoxes and More\bin\Debug\net8.0-windows\ListBoxes and More.deps.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\ListBoxes and More\ListBoxes and More\bin\Debug\net8.0-windows\ListBoxes and More.runtimeconfig.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\ListBoxes and More\ListBoxes and More\bin\Debug\net8.0-windows\ListBoxes and More.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\ListBoxes and More\ListBoxes and More\bin\Debug\net8.0-windows\ListBoxes and More.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\ListBoxes and More\ListBoxes and More\obj\Debug\net8.0-windows\ListBoxes_and_More.Form1.resources
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\ListBoxes and More\ListBoxes and More\obj\Debug\net8.0-windows\ListBoxes and More.csproj.GenerateResource.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\ListBoxes and More\ListBoxes and More\obj\Debug\net8.0-windows\ListBoxes and More.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\ListBoxes and More\ListBoxes and More\obj\Debug\net8.0-windows\ListBoxes and More.AssemblyInfoInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\ListBoxes and More\ListBoxes and More\obj\Debug\net8.0-windows\ListBoxes and More.AssemblyInfo.cs
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\ListBoxes and More\ListBoxes and More\obj\Debug\net8.0-windows\ListBoxes and More.csproj.CoreCompileInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\ListBoxes and More\ListBoxes and More\obj\Debug\net8.0-windows\ListBoxes and More.sourcelink.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\ListBoxes and More\ListBoxes and More\obj\Debug\net8.0-windows\ListBoxes and More.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\ListBoxes and More\ListBoxes and More\obj\Debug\net8.0-windows\refint\ListBoxes and More.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\ListBoxes and More\ListBoxes and More\obj\Debug\net8.0-windows\ListBoxes and More.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\ListBoxes and More\ListBoxes and More\obj\Debug\net8.0-windows\ListBoxes and More.genruntimeconfig.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\ListBoxes and More\ListBoxes and More\obj\Debug\net8.0-windows\ref\ListBoxes and More.dll
