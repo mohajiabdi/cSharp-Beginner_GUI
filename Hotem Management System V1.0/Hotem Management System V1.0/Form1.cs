@@ -7,6 +7,8 @@ namespace Hotem_Management_System_V1._0
         public Form1()
         {
             InitializeComponent();
+            txtUsername.Focus();
+            txtUsername.BringToFront();
         }
 
         private void btnClose_Click(object sender, EventArgs e)
@@ -40,6 +42,7 @@ namespace Hotem_Management_System_V1._0
             {
                 txtUsername.Text = "";
                 txtPassword.Text = "";
+                txtUsername.Focus();
             }
         }
     }

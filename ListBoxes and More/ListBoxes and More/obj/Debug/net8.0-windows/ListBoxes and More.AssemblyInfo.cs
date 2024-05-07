@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListBoxes and More")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36565c096a55188de988948308beec2eaf05d4fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e1affdb4adc620b3cbf8109af4180182b58c4ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListBoxes and More")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListBoxes and More")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

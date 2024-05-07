@@ -40,11 +40,11 @@ namespace ListBoxes_and_More
 
         private void btnFind_Click(object sender, EventArgs e)
         {
-            int index = lstCountryNames.SelectedIndex = -1;
+            int index = lstCountryNames.SelectedIndex;
             index = lstCountryNames.FindString(txtCountry.Text);
 
 
-            if (index != ListBox.NoMatches)
+            if (index != ListBox.NoMatches && txtCountry.Text != "")
             {
 
                 string foundItemText = lstCountryNames.Items[index].ToString();
@@ -54,6 +54,8 @@ namespace ListBoxes_and_More
             }
             else
             {
+               
+
                 lblMessage.Text = "Item Not Found";
 
             }
@@ -86,6 +88,10 @@ namespace ListBoxes_and_More
                     lstCountryNames.Items.Insert(lstCountryNames.SelectedIndex, txtCountry.Text);
                     
                     lblMessage.Text = "New Item Inserted!...";
+                    int index = lstCountryNames.SelectedIndex;
+                    index -= 1;
+                    lblMessage.Text = "New Country Name: "+ txtCountry.Text +" At Index: "+ index;
+
                 }
                 else
                 {

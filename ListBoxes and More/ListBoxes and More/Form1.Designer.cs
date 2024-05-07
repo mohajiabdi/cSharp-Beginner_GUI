@@ -77,7 +77,7 @@
             lstCountryNames.Font = new Font("Segoe UI", 18F);
             lstCountryNames.FormattingEnabled = true;
             lstCountryNames.ItemHeight = 41;
-            lstCountryNames.Items.AddRange(new object[] { "Somalia", "Kenya", "Ethiopia" });
+            lstCountryNames.Items.AddRange(new object[] { "Somalia", "Kenya", "Ethiopia", "India", "USA", "UK", "Canada", "Mexico", "Syria", "Saudi Arabia", "South Africa", "Ghana", "Zambia", "Pakistan" });
             lstCountryNames.Location = new Point(27, 93);
             lstCountryNames.Name = "lstCountryNames";
             lstCountryNames.Size = new Size(243, 291);

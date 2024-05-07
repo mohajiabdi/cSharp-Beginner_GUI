@@ -1,0 +1,15 @@
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Loops Using Console1\Loops Using Console1\bin\Debug\net8.0\Loops Using Console1.exe
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Loops Using Console1\Loops Using Console1\bin\Debug\net8.0\Loops Using Console1.deps.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Loops Using Console1\Loops Using Console1\bin\Debug\net8.0\Loops Using Console1.runtimeconfig.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Loops Using Console1\Loops Using Console1\bin\Debug\net8.0\Loops Using Console1.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Loops Using Console1\Loops Using Console1\bin\Debug\net8.0\Loops Using Console1.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Loops Using Console1\Loops Using Console1\obj\Debug\net8.0\Loops Using Console1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Loops Using Console1\Loops Using Console1\obj\Debug\net8.0\Loops Using Console1.AssemblyInfoInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Loops Using Console1\Loops Using Console1\obj\Debug\net8.0\Loops Using Console1.AssemblyInfo.cs
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Loops Using Console1\Loops Using Console1\obj\Debug\net8.0\Loops Using Console1.csproj.CoreCompileInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Loops Using Console1\Loops Using Console1\obj\Debug\net8.0\Loops Using Console1.sourcelink.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Loops Using Console1\Loops Using Console1\obj\Debug\net8.0\Loops Using Console1.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Loops Using Console1\Loops Using Console1\obj\Debug\net8.0\refint\Loops Using Console1.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Loops Using Console1\Loops Using Console1\obj\Debug\net8.0\Loops Using Console1.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Loops Using Console1\Loops Using Console1\obj\Debug\net8.0\Loops Using Console1.genruntimeconfig.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Loops Using Console1\Loops Using Console1\obj\Debug\net8.0\ref\Loops Using Console1.dll
