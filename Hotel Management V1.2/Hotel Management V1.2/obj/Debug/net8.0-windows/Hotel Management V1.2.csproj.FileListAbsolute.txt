@@ -1,0 +1,27 @@
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\bin\Debug\net8.0-windows\Hotel Management V1.2.exe
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\bin\Debug\net8.0-windows\Hotel Management V1.2.deps.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\bin\Debug\net8.0-windows\Hotel Management V1.2.runtimeconfig.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\bin\Debug\net8.0-windows\Hotel Management V1.2.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\bin\Debug\net8.0-windows\Hotel Management V1.2.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\bin\Debug\net8.0-windows\CircularProgressBar.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\bin\Debug\net8.0-windows\WinFormAnimation.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\obj\Debug\net8.0-windows\Hotel Management V1.2.csproj.AssemblyReference.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\obj\Debug\net8.0-windows\Hotel_Management_V1._2.Form1.resources
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\obj\Debug\net8.0-windows\Hotel Management V1.2.csproj.GenerateResource.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\obj\Debug\net8.0-windows\Hotel Management V1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\obj\Debug\net8.0-windows\Hotel Management V1.2.AssemblyInfoInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\obj\Debug\net8.0-windows\Hotel Management V1.2.AssemblyInfo.cs
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\obj\Debug\net8.0-windows\Hotel Management V1.2.csproj.CoreCompileInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\obj\Debug\net8.0-windows\Hotel Management V1.2.sourcelink.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\obj\Debug\net8.0-windows\Hotel Ma.F606FE8D.Up2Date
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\obj\Debug\net8.0-windows\Hotel Management V1.2.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\obj\Debug\net8.0-windows\refint\Hotel Management V1.2.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\obj\Debug\net8.0-windows\Hotel Management V1.2.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\obj\Debug\net8.0-windows\Hotel Management V1.2.genruntimeconfig.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\obj\Debug\net8.0-windows\ref\Hotel Management V1.2.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\obj\Debug\net8.0-windows\Hotel_Management_V1._2.login.resources
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\obj\Debug\net8.0-windows\Hotel_Management_V1._2.Properties.Resources.resources
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Hotel Management V1.2\Hotel Management V1.2\obj\Debug\net8.0-windows\Hotel_Management_V1._2.Dashboard.resources

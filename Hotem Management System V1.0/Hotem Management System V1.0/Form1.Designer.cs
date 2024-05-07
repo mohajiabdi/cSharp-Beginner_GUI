@@ -54,6 +54,7 @@
             guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             txtPassword = new Guna.UI2.WinForms.Guna2TextBox();
             btnLogin = new Guna.UI2.WinForms.Guna2Button();
+            guna2AnimateWindow1 = new Guna.UI2.WinForms.Guna2AnimateWindow(components);
             guna2CustomGradientPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)guna2CirclePictureBox1).BeginInit();
             SuspendLayout();
@@ -268,5 +269,6 @@
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel2;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel3;
         private Guna.UI2.WinForms.Guna2Button guna2Button1;
+        private Guna.UI2.WinForms.Guna2AnimateWindow guna2AnimateWindow1;
     }
 }
