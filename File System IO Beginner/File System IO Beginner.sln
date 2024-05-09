@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File System IO Beginner", "File System IO Beginner\File System IO Beginner.csproj", "{55E1736E-F2DC-4674-876B-32DAE73AD11B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55E1736E-F2DC-4674-876B-32DAE73AD11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E1736E-F2DC-4674-876B-32DAE73AD11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E1736E-F2DC-4674-876B-32DAE73AD11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E1736E-F2DC-4674-876B-32DAE73AD11B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BD9F74B-BA51-4CF0-8D68-828A743A7701}
+	EndGlobalSection
+EndGlobal

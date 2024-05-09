@@ -1,0 +1,21 @@
+Mohamed Mahad Abdi, Burhan Jama, 24, Banadir, Yaaqshid, 0770544757, Male
+
+Muscab Mahad, Burhan Jama, 22, Kenya, Nairobi, Islii, 09090265226, Male
+
+Asho Abdulqadir, Laylo Macalin, 30, Banaadir, Yaaqshid, 0615224343, Female
+
+Hani Ibrahim, Saabiriin Ali, 18, Banaadir, DaaruSalaam, 0614325454, Female
+
+Abdirahman Mahad, Burhan Jama, 21, Kenya, Islii, 090987654141, Male
+
+Adan Mahad Abdi, Burhan Jama, 16, Jigjiga, Kebel10, 0912445511, Male
+
+Muniira Mahad, Burhan Jama, 19, Ehtiopia, Kebele10, 0913456565, Female
+
+Maryan Mahad, Burhan Jama, 14, Ethiopia, Kebele10, 0915434312, Female
+
+Tamra Mahad, Burhan Jama, 11, Ethiopia , Kebele10, 0915432100, Female
+
+Mohamed Mumin, Amino, 22, Banaadir, Shangani, 0617545432, Male
+
+Anzal Hussein, Fadumo Ali, 18, Banaadir, Taleex, 0615328765, Female
