@@ -19,3 +19,5 @@ Tamra Mahad, Burhan Jama, 11, Ethiopia , Kebele10, 0915432100, Female
 Mohamed Mumin, Amino, 22, Banaadir, Shangani, 0617545432, Male
 
 Anzal Hussein, Fadumo Ali, 18, Banaadir, Taleex, 0615328765, Female
+
+Abdi Ali, Fadumo Ahmed, 20, Banaadir, Yaaqshid, 0615432121, Male
