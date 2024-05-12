@@ -16,11 +16,11 @@ namespace File_System_IO_Beginner
         private void btnSave_Click(object sender, EventArgs e)
         {
             Boolean test = txtFullName.Text != "" && txtAge.Text != "" && txtRegion.Text != ""
-                && txtTel.Text != "" && comboGender.SelectedIndex != -1;
+                && txtAddress.Text != "" && txtTel.Text != "" && comboGender.SelectedIndex != -1;
             try
             {
                 StreamWriter outputFile;
-                outputFile = File.AppendText("Info.txt");
+                outputFile = File.AppendText("Data.txt");
 
                 if (test)
                 {
@@ -40,7 +40,7 @@ namespace File_System_IO_Beginner
                 }
                 else
                 {
-                    MessageBox.Show("Fill The Compulsury TextBoes.\nFullname\nAge\nRegion\nTelephone\nGender");
+                    MessageBox.Show("Fill The Compulsury TextBoes :- \nFullname\nAge\nRegion\nAddress\nTelephone\nGender");
                 }
 
             }
@@ -59,7 +59,7 @@ namespace File_System_IO_Beginner
 
         private void btnLoad_Click(object sender, EventArgs e)
         {
-            string filePath = "Info.txt";
+            string filePath = "Data.txt";
             try
             {
                 using (StreamReader reader = new StreamReader(filePath))

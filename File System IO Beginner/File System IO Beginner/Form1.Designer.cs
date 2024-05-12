@@ -194,7 +194,7 @@
             btnLoad.Name = "btnLoad";
             btnLoad.Size = new Size(147, 60);
             btnLoad.TabIndex = 8;
-            btnLoad.Text = "Load";
+            btnLoad.Text = "&Load";
             btnLoad.UseVisualStyleBackColor = true;
             btnLoad.Click += btnLoad_Click;
             // 
@@ -205,7 +205,7 @@
             btnSave.Name = "btnSave";
             btnSave.Size = new Size(147, 60);
             btnSave.TabIndex = 7;
-            btnSave.Text = "Save";
+            btnSave.Text = "&Save";
             btnSave.UseVisualStyleBackColor = true;
             btnSave.Click += btnSave_Click;
             // 
