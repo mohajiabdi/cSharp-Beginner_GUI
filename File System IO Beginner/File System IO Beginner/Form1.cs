@@ -1,4 +1,5 @@
 using System.Windows.Forms;
+using System.IO;
 
 namespace File_System_IO_Beginner
 {
@@ -20,10 +21,12 @@ namespace File_System_IO_Beginner
             try
             {
                 StreamWriter outputFile;
+                // OPEN File
                 outputFile = File.AppendText("Data.txt");
 
                 if (test)
                 {
+                    // Process Write, WriteLine or Read
                     outputFile.WriteLine("\n");
                     outputFile.Write(txtFullName.Text + ", ");
                     outputFile.Write(txtMother.Text + ", ");
@@ -33,7 +36,7 @@ namespace File_System_IO_Beginner
                     outputFile.Write(txtTel.Text + ", ");
                     outputFile.Write(comboGender.SelectedItem);
 
-
+                    // Close ()
                     outputFile.Close();
                     ClearData();
 

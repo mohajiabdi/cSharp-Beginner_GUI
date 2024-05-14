@@ -1,0 +1,17 @@
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\System File IO 2 Lap\System File IO 2 Lap\bin\Debug\net8.0-windows\System File IO 2 Lap.exe
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\System File IO 2 Lap\System File IO 2 Lap\bin\Debug\net8.0-windows\System File IO 2 Lap.deps.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\System File IO 2 Lap\System File IO 2 Lap\bin\Debug\net8.0-windows\System File IO 2 Lap.runtimeconfig.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\System File IO 2 Lap\System File IO 2 Lap\bin\Debug\net8.0-windows\System File IO 2 Lap.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\System File IO 2 Lap\System File IO 2 Lap\bin\Debug\net8.0-windows\System File IO 2 Lap.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\System File IO 2 Lap\System File IO 2 Lap\obj\Debug\net8.0-windows\System_File_IO_2_Lap.Form1.resources
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\System File IO 2 Lap\System File IO 2 Lap\obj\Debug\net8.0-windows\System File IO 2 Lap.csproj.GenerateResource.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\System File IO 2 Lap\System File IO 2 Lap\obj\Debug\net8.0-windows\System File IO 2 Lap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\System File IO 2 Lap\System File IO 2 Lap\obj\Debug\net8.0-windows\System File IO 2 Lap.AssemblyInfoInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\System File IO 2 Lap\System File IO 2 Lap\obj\Debug\net8.0-windows\System File IO 2 Lap.AssemblyInfo.cs
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\System File IO 2 Lap\System File IO 2 Lap\obj\Debug\net8.0-windows\System File IO 2 Lap.csproj.CoreCompileInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\System File IO 2 Lap\System File IO 2 Lap\obj\Debug\net8.0-windows\System File IO 2 Lap.sourcelink.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\System File IO 2 Lap\System File IO 2 Lap\obj\Debug\net8.0-windows\System File IO 2 Lap.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\System File IO 2 Lap\System File IO 2 Lap\obj\Debug\net8.0-windows\refint\System File IO 2 Lap.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\System File IO 2 Lap\System File IO 2 Lap\obj\Debug\net8.0-windows\System File IO 2 Lap.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\System File IO 2 Lap\System File IO 2 Lap\obj\Debug\net8.0-windows\System File IO 2 Lap.genruntimeconfig.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\System File IO 2 Lap\System File IO 2 Lap\obj\Debug\net8.0-windows\ref\System File IO 2 Lap.dll

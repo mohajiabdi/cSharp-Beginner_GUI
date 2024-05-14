@@ -21,3 +21,7 @@ Mohamed Mumin, Amino, 22, Banaadir, Shangani, 0617545432, Male
 Anzal Hussein, Fadumo Ali, 18, Banaadir, Taleex, 0615328765, Female
 
 Abdi Ali, Fadumo Ahmed, 20, Banaadir, Yaaqshid, 0615432121, Male
+
+Mohamed Nur Mumin, Cibaado, 21, Banaadir, Hodan, 0615565611, Male
+
+Sharmarke, Ubax, 27, Banaadir, Yaqshid, 0615661166, Male

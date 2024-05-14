@@ -216,6 +216,7 @@
             lstInfo.Location = new Point(486, 13);
             lstInfo.Margin = new Padding(5, 4, 5, 4);
             lstInfo.Name = "lstInfo";
+            lstInfo.ScrollAlwaysVisible = true;
             lstInfo.Size = new Size(785, 504);
             lstInfo.TabIndex = 9;
             // 
