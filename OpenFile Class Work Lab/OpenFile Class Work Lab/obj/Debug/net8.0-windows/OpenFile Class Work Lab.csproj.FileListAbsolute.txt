@@ -1,0 +1,17 @@
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\OpenFile Class Work Lab\OpenFile Class Work Lab\bin\Debug\net8.0-windows\OpenFile Class Work Lab.exe
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\OpenFile Class Work Lab\OpenFile Class Work Lab\bin\Debug\net8.0-windows\OpenFile Class Work Lab.deps.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\OpenFile Class Work Lab\OpenFile Class Work Lab\bin\Debug\net8.0-windows\OpenFile Class Work Lab.runtimeconfig.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\OpenFile Class Work Lab\OpenFile Class Work Lab\bin\Debug\net8.0-windows\OpenFile Class Work Lab.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\OpenFile Class Work Lab\OpenFile Class Work Lab\bin\Debug\net8.0-windows\OpenFile Class Work Lab.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\OpenFile Class Work Lab\OpenFile Class Work Lab\obj\Debug\net8.0-windows\OpenFile_Class_Work_Lab.Form1.resources
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\OpenFile Class Work Lab\OpenFile Class Work Lab\obj\Debug\net8.0-windows\OpenFile Class Work Lab.csproj.GenerateResource.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\OpenFile Class Work Lab\OpenFile Class Work Lab\obj\Debug\net8.0-windows\OpenFile Class Work Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\OpenFile Class Work Lab\OpenFile Class Work Lab\obj\Debug\net8.0-windows\OpenFile Class Work Lab.AssemblyInfoInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\OpenFile Class Work Lab\OpenFile Class Work Lab\obj\Debug\net8.0-windows\OpenFile Class Work Lab.AssemblyInfo.cs
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\OpenFile Class Work Lab\OpenFile Class Work Lab\obj\Debug\net8.0-windows\OpenFile Class Work Lab.csproj.CoreCompileInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\OpenFile Class Work Lab\OpenFile Class Work Lab\obj\Debug\net8.0-windows\OpenFile Class Work Lab.sourcelink.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\OpenFile Class Work Lab\OpenFile Class Work Lab\obj\Debug\net8.0-windows\OpenFile Class Work Lab.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\OpenFile Class Work Lab\OpenFile Class Work Lab\obj\Debug\net8.0-windows\refint\OpenFile Class Work Lab.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\OpenFile Class Work Lab\OpenFile Class Work Lab\obj\Debug\net8.0-windows\OpenFile Class Work Lab.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\OpenFile Class Work Lab\OpenFile Class Work Lab\obj\Debug\net8.0-windows\OpenFile Class Work Lab.genruntimeconfig.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\OpenFile Class Work Lab\OpenFile Class Work Lab\obj\Debug\net8.0-windows\ref\OpenFile Class Work Lab.dll

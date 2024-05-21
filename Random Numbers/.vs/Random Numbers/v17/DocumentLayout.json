@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Random Numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6492C1BE-C4B1-4F72-B990-4A05410C5918}|Random Numbers\\Random Numbers.csproj|c:\\users\\l\\documents\\github\\coding-zone\\c#\\random numbers\\random numbers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6492C1BE-C4B1-4F72-B990-4A05410C5918}|Random Numbers\\Random Numbers.csproj|solutionrelative:random numbers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6492C1BE-C4B1-4F72-B990-4A05410C5918}|Random Numbers\\Random Numbers.csproj|c:\\users\\l\\documents\\github\\coding-zone\\c#\\random numbers\\random numbers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6492C1BE-C4B1-4F72-B990-4A05410C5918}|Random Numbers\\Random Numbers.csproj|solutionrelative:random numbers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Random Numbers\\Random Numbers\\Form1.cs",
+              "RelativeDocumentMoniker": "Random Numbers\\Form1.cs",
+              "ToolTip": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Random Numbers\\Random Numbers\\Form1.cs",
+              "RelativeToolTip": "Random Numbers\\Form1.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAuwCgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:56:12.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Random Numbers\\Random Numbers\\Form1.cs",
+              "RelativeDocumentMoniker": "Random Numbers\\Form1.cs",
+              "ToolTip": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Random Numbers\\Random Numbers\\Form1.cs [Design]",
+              "RelativeToolTip": "Random Numbers\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:49:05.148Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Random Numbers\Random Numbers\bin\Debug\net8.0-windows\Random Numbers.exe
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Random Numbers\Random Numbers\bin\Debug\net8.0-windows\Random Numbers.deps.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Random Numbers\Random Numbers\bin\Debug\net8.0-windows\Random Numbers.runtimeconfig.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Random Numbers\Random Numbers\bin\Debug\net8.0-windows\Random Numbers.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Random Numbers\Random Numbers\bin\Debug\net8.0-windows\Random Numbers.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Random Numbers\Random Numbers\obj\Debug\net8.0-windows\Random_Numbers.Form1.resources
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Random Numbers\Random Numbers\obj\Debug\net8.0-windows\Random Numbers.csproj.GenerateResource.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Random Numbers\Random Numbers\obj\Debug\net8.0-windows\Random Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Random Numbers\Random Numbers\obj\Debug\net8.0-windows\Random Numbers.AssemblyInfoInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Random Numbers\Random Numbers\obj\Debug\net8.0-windows\Random Numbers.AssemblyInfo.cs
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Random Numbers\Random Numbers\obj\Debug\net8.0-windows\Random Numbers.csproj.CoreCompileInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Random Numbers\Random Numbers\obj\Debug\net8.0-windows\Random Numbers.sourcelink.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Random Numbers\Random Numbers\obj\Debug\net8.0-windows\Random Numbers.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Random Numbers\Random Numbers\obj\Debug\net8.0-windows\refint\Random Numbers.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Random Numbers\Random Numbers\obj\Debug\net8.0-windows\Random Numbers.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Random Numbers\Random Numbers\obj\Debug\net8.0-windows\Random Numbers.genruntimeconfig.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Random Numbers\Random Numbers\obj\Debug\net8.0-windows\ref\Random Numbers.dll
