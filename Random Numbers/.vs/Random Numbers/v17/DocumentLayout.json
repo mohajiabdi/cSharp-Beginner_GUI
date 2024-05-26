@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{6492C1BE-C4B1-4F72-B990-4A05410C5918}|Random Numbers\\Random Numbers.csproj|solutionrelative:random numbers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6492C1BE-C4B1-4F72-B990-4A05410C5918}|Random Numbers\\Random Numbers.csproj|c:\\users\\l\\documents\\github\\coding-zone\\c#\\random numbers\\random numbers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6492C1BE-C4B1-4F72-B990-4A05410C5918}|Random Numbers\\Random Numbers.csproj|C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Random Numbers\\random numbers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6492C1BE-C4B1-4F72-B990-4A05410C5918}|Random Numbers\\Random Numbers.csproj|solutionrelative:random numbers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Random Numbers\\Form1.cs",
               "ToolTip": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Random Numbers\\Random Numbers\\Form1.cs",
               "RelativeToolTip": "Random Numbers\\Form1.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAuwCgAAAALAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAqwEcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T05:56:12.391Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Random Numbers\\Random Numbers\\Form1.cs [Design]",
               "RelativeToolTip": "Random Numbers\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:49:05.148Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-21T05:49:05.148Z"
             }
           ]
         }
