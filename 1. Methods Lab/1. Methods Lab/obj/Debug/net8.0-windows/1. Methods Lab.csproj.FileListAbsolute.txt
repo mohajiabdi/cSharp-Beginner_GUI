@@ -1,0 +1,17 @@
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\1. Methods Lab\1. Methods Lab\bin\Debug\net8.0-windows\1. Methods Lab.exe
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\1. Methods Lab\1. Methods Lab\bin\Debug\net8.0-windows\1. Methods Lab.deps.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\1. Methods Lab\1. Methods Lab\bin\Debug\net8.0-windows\1. Methods Lab.runtimeconfig.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\1. Methods Lab\1. Methods Lab\bin\Debug\net8.0-windows\1. Methods Lab.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\1. Methods Lab\1. Methods Lab\bin\Debug\net8.0-windows\1. Methods Lab.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\1. Methods Lab\1. Methods Lab\obj\Debug\net8.0-windows\_1._Methods_Lab.Form1.resources
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\1. Methods Lab\1. Methods Lab\obj\Debug\net8.0-windows\1. Methods Lab.csproj.GenerateResource.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\1. Methods Lab\1. Methods Lab\obj\Debug\net8.0-windows\1. Methods Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\1. Methods Lab\1. Methods Lab\obj\Debug\net8.0-windows\1. Methods Lab.AssemblyInfoInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\1. Methods Lab\1. Methods Lab\obj\Debug\net8.0-windows\1. Methods Lab.AssemblyInfo.cs
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\1. Methods Lab\1. Methods Lab\obj\Debug\net8.0-windows\1. Methods Lab.csproj.CoreCompileInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\1. Methods Lab\1. Methods Lab\obj\Debug\net8.0-windows\1. Methods Lab.sourcelink.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\1. Methods Lab\1. Methods Lab\obj\Debug\net8.0-windows\1. Methods Lab.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\1. Methods Lab\1. Methods Lab\obj\Debug\net8.0-windows\refint\1. Methods Lab.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\1. Methods Lab\1. Methods Lab\obj\Debug\net8.0-windows\1. Methods Lab.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\1. Methods Lab\1. Methods Lab\obj\Debug\net8.0-windows\1. Methods Lab.genruntimeconfig.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\1. Methods Lab\1. Methods Lab\obj\Debug\net8.0-windows\ref\1. Methods Lab.dll

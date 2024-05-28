@@ -1,0 +1,17 @@
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Order Function\Order Function\bin\Debug\net8.0-windows\Order Function.exe
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Order Function\Order Function\bin\Debug\net8.0-windows\Order Function.deps.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Order Function\Order Function\bin\Debug\net8.0-windows\Order Function.runtimeconfig.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Order Function\Order Function\bin\Debug\net8.0-windows\Order Function.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Order Function\Order Function\bin\Debug\net8.0-windows\Order Function.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Order Function\Order Function\obj\Debug\net8.0-windows\Order_Function.Form1.resources
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Order Function\Order Function\obj\Debug\net8.0-windows\Order Function.csproj.GenerateResource.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Order Function\Order Function\obj\Debug\net8.0-windows\Order Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Order Function\Order Function\obj\Debug\net8.0-windows\Order Function.AssemblyInfoInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Order Function\Order Function\obj\Debug\net8.0-windows\Order Function.AssemblyInfo.cs
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Order Function\Order Function\obj\Debug\net8.0-windows\Order Function.csproj.CoreCompileInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Order Function\Order Function\obj\Debug\net8.0-windows\Order Function.sourcelink.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Order Function\Order Function\obj\Debug\net8.0-windows\Order Function.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Order Function\Order Function\obj\Debug\net8.0-windows\refint\Order Function.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Order Function\Order Function\obj\Debug\net8.0-windows\Order Function.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Order Function\Order Function\obj\Debug\net8.0-windows\Order Function.genruntimeconfig.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Order Function\Order Function\obj\Debug\net8.0-windows\ref\Order Function.dll
