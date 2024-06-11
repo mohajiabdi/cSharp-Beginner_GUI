@@ -1,0 +1,17 @@
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lab Assignment (04-06-2024)\Lab Assignment (04-06-2024)\bin\Debug\net8.0-windows\Lab Assignment (04-06-2024).exe
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lab Assignment (04-06-2024)\Lab Assignment (04-06-2024)\bin\Debug\net8.0-windows\Lab Assignment (04-06-2024).deps.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lab Assignment (04-06-2024)\Lab Assignment (04-06-2024)\bin\Debug\net8.0-windows\Lab Assignment (04-06-2024).runtimeconfig.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lab Assignment (04-06-2024)\Lab Assignment (04-06-2024)\bin\Debug\net8.0-windows\Lab Assignment (04-06-2024).dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lab Assignment (04-06-2024)\Lab Assignment (04-06-2024)\bin\Debug\net8.0-windows\Lab Assignment (04-06-2024).pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lab Assignment (04-06-2024)\Lab Assignment (04-06-2024)\obj\Debug\net8.0-windows\Lab_Assignment__04_06_2024_.Form1.resources
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lab Assignment (04-06-2024)\Lab Assignment (04-06-2024)\obj\Debug\net8.0-windows\Lab Assignment (04-06-2024).csproj.GenerateResource.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lab Assignment (04-06-2024)\Lab Assignment (04-06-2024)\obj\Debug\net8.0-windows\Lab Assignment (04-06-2024).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lab Assignment (04-06-2024)\Lab Assignment (04-06-2024)\obj\Debug\net8.0-windows\Lab Assignment (04-06-2024).AssemblyInfoInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lab Assignment (04-06-2024)\Lab Assignment (04-06-2024)\obj\Debug\net8.0-windows\Lab Assignment (04-06-2024).AssemblyInfo.cs
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lab Assignment (04-06-2024)\Lab Assignment (04-06-2024)\obj\Debug\net8.0-windows\Lab Assignment (04-06-2024).csproj.CoreCompileInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lab Assignment (04-06-2024)\Lab Assignment (04-06-2024)\obj\Debug\net8.0-windows\Lab Assignment (04-06-2024).sourcelink.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lab Assignment (04-06-2024)\Lab Assignment (04-06-2024)\obj\Debug\net8.0-windows\Lab Assignment (04-06-2024).dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lab Assignment (04-06-2024)\Lab Assignment (04-06-2024)\obj\Debug\net8.0-windows\refint\Lab Assignment (04-06-2024).dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lab Assignment (04-06-2024)\Lab Assignment (04-06-2024)\obj\Debug\net8.0-windows\Lab Assignment (04-06-2024).pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lab Assignment (04-06-2024)\Lab Assignment (04-06-2024)\obj\Debug\net8.0-windows\Lab Assignment (04-06-2024).genruntimeconfig.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lab Assignment (04-06-2024)\Lab Assignment (04-06-2024)\obj\Debug\net8.0-windows\ref\Lab Assignment (04-06-2024).dll
