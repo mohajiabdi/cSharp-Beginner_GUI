@@ -34,10 +34,10 @@
             // txtDis
             // 
             txtDis.Font = new Font("Verdana", 16.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtDis.Location = new Point(12, 12);
+            txtDis.Location = new Point(12, 20);
             txtDis.Name = "txtDis";
             txtDis.Size = new Size(776, 410);
-            txtDis.TabIndex = 0;
+            txtDis.TabIndex = 1;
             txtDis.Text = "";
             // 
             // Form1

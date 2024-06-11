@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Lists and ImageLists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4837D56-3975-49B8-94B0-0903A5CB7CE3}|Lists and ImageLists\\Lists and ImageLists.csproj|c:\\users\\l\\documents\\github\\coding-zone\\c#\\lists and imagelists\\lists and imagelists\\imagelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4837D56-3975-49B8-94B0-0903A5CB7CE3}|Lists and ImageLists\\Lists and ImageLists.csproj|solutionrelative:lists and imagelists\\imagelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4837D56-3975-49B8-94B0-0903A5CB7CE3}|Lists and ImageLists\\Lists and ImageLists.csproj|c:\\users\\l\\documents\\github\\coding-zone\\c#\\lists and imagelists\\lists and imagelists\\imagelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4837D56-3975-49B8-94B0-0903A5CB7CE3}|Lists and ImageLists\\Lists and ImageLists.csproj|solutionrelative:lists and imagelists\\imagelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4837D56-3975-49B8-94B0-0903A5CB7CE3}|Lists and ImageLists\\Lists and ImageLists.csproj|c:\\users\\l\\documents\\github\\coding-zone\\c#\\lists and imagelists\\lists and imagelists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4837D56-3975-49B8-94B0-0903A5CB7CE3}|Lists and ImageLists\\Lists and ImageLists.csproj|solutionrelative:lists and imagelists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4837D56-3975-49B8-94B0-0903A5CB7CE3}|Lists and ImageLists\\Lists and ImageLists.csproj|c:\\users\\l\\documents\\github\\coding-zone\\c#\\lists and imagelists\\lists and imagelists\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4837D56-3975-49B8-94B0-0903A5CB7CE3}|Lists and ImageLists\\Lists and ImageLists.csproj|solutionrelative:lists and imagelists\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4837D56-3975-49B8-94B0-0903A5CB7CE3}|Lists and ImageLists\\Lists and ImageLists.csproj|c:\\users\\l\\documents\\github\\coding-zone\\c#\\lists and imagelists\\lists and imagelists\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4837D56-3975-49B8-94B0-0903A5CB7CE3}|Lists and ImageLists\\Lists and ImageLists.csproj|solutionrelative:lists and imagelists\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Lists and ImageLists\\Lists and ImageLists\\Program.cs",
+              "RelativeDocumentMoniker": "Lists and ImageLists\\Program.cs",
+              "ToolTip": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Lists and ImageLists\\Lists and ImageLists\\Program.cs",
+              "RelativeToolTip": "Lists and ImageLists\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:28:00.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "imageList.cs",
+              "DocumentMoniker": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Lists and ImageLists\\Lists and ImageLists\\imageList.cs",
+              "RelativeDocumentMoniker": "Lists and ImageLists\\imageList.cs",
+              "ToolTip": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Lists and ImageLists\\Lists and ImageLists\\imageList.cs",
+              "RelativeToolTip": "Lists and ImageLists\\imageList.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAMwBYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:24:45.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "imageList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Lists and ImageLists\\Lists and ImageLists\\imageList.cs",
+              "RelativeDocumentMoniker": "Lists and ImageLists\\imageList.cs",
+              "ToolTip": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Lists and ImageLists\\Lists and ImageLists\\imageList.cs [Design]",
+              "RelativeToolTip": "Lists and ImageLists\\imageList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:12:24.374Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Lists and ImageLists\\Lists and ImageLists\\Form1.cs",
+              "RelativeDocumentMoniker": "Lists and ImageLists\\Form1.cs",
+              "ToolTip": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Lists and ImageLists\\Lists and ImageLists\\Form1.cs",
+              "RelativeToolTip": "Lists and ImageLists\\Form1.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:00:22.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Lists and ImageLists\\Lists and ImageLists\\Form1.cs",
+              "RelativeDocumentMoniker": "Lists and ImageLists\\Form1.cs",
+              "ToolTip": "C:\\Users\\l\\Documents\\GitHub\\Coding-Zone\\C#\\Lists and ImageLists\\Lists and ImageLists\\Form1.cs [Design]",
+              "RelativeToolTip": "Lists and ImageLists\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T05:57:50.711Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

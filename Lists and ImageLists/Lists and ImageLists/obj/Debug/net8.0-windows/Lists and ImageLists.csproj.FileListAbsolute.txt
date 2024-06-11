@@ -1,0 +1,18 @@
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lists and ImageLists\Lists and ImageLists\bin\Debug\net8.0-windows\Lists and ImageLists.exe
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lists and ImageLists\Lists and ImageLists\bin\Debug\net8.0-windows\Lists and ImageLists.deps.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lists and ImageLists\Lists and ImageLists\bin\Debug\net8.0-windows\Lists and ImageLists.runtimeconfig.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lists and ImageLists\Lists and ImageLists\bin\Debug\net8.0-windows\Lists and ImageLists.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lists and ImageLists\Lists and ImageLists\bin\Debug\net8.0-windows\Lists and ImageLists.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lists and ImageLists\Lists and ImageLists\obj\Debug\net8.0-windows\Lists_and_ImageLists.Form1.resources
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lists and ImageLists\Lists and ImageLists\obj\Debug\net8.0-windows\Lists and ImageLists.csproj.GenerateResource.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lists and ImageLists\Lists and ImageLists\obj\Debug\net8.0-windows\Lists and ImageLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lists and ImageLists\Lists and ImageLists\obj\Debug\net8.0-windows\Lists and ImageLists.AssemblyInfoInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lists and ImageLists\Lists and ImageLists\obj\Debug\net8.0-windows\Lists and ImageLists.AssemblyInfo.cs
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lists and ImageLists\Lists and ImageLists\obj\Debug\net8.0-windows\Lists and ImageLists.csproj.CoreCompileInputs.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lists and ImageLists\Lists and ImageLists\obj\Debug\net8.0-windows\Lists and ImageLists.sourcelink.json
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lists and ImageLists\Lists and ImageLists\obj\Debug\net8.0-windows\Lists and ImageLists.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lists and ImageLists\Lists and ImageLists\obj\Debug\net8.0-windows\refint\Lists and ImageLists.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lists and ImageLists\Lists and ImageLists\obj\Debug\net8.0-windows\Lists and ImageLists.pdb
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lists and ImageLists\Lists and ImageLists\obj\Debug\net8.0-windows\Lists and ImageLists.genruntimeconfig.cache
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lists and ImageLists\Lists and ImageLists\obj\Debug\net8.0-windows\ref\Lists and ImageLists.dll
+C:\Users\l\Documents\GitHub\Coding-Zone\C#\Lists and ImageLists\Lists and ImageLists\obj\Debug\net8.0-windows\Lists_and_ImageLists.imageList.resources
